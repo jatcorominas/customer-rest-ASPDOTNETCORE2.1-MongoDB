@@ -12,6 +12,7 @@ cell:   +1-647-618-2080
 (a) Visual Studio 2019 Community Edition
 (b) ASP DOTNET CORE 2.1 Template
 (c) Mongo DB NOSQL version 3.2
+(d) The Unit Tests depend on xUnit, FluentAssertions and NSubstitute
 
 2. Import the project as an existing project to Visual Studio 2019
 
